@@ -1,0 +1,17 @@
+{
+    "wordMinLength": "Ditt lösenord är för kort",
+    "wordMaxLength": "Ditt lösenord är för långt",
+    "wordInvalidChar": "Ditt lösenord innehåller ett ogiltigt tecken",
+    "wordNotEmail": "Använd inte din epostadress som ditt lösenord",
+    "wordSimilarToUsername": "Ditt lösenord kan inte innehålla ditt användarnamn",
+    "wordTwoCharacterClasses": "Använd olika karaktärklasser",
+    "wordRepetitions": "För många repetitioner",
+    "wordSequences": "Ditt lösenord innehåller sekvenser",
+    "errorList": "Fel:",
+    "veryWeak": "Väldigt svagt",
+    "weak": "Svagt",
+    "normal": "Normalt",
+    "medium": "Medium",
+    "strong": "Starkt",
+    "veryStrong": "Väldigt Starkt"
+}
